@@ -1,1 +1,1 @@
-# My-Portfolio-Website- This is my first simple portfolio website using HTML, CSS and Javascript.
+# My-Portfolio-Website- This is my first simple portfolio website using HTML and CSS
